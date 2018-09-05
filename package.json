@@ -1,0 +1,15 @@
+{
+  "name": "iTunes",
+  "version": "1.0.0",
+  "description": "iTunes manipulated",
+  "main": "index.js",
+  "homepage": "https://bl7.github.io/ITunes-MyVersion",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Biswash Lamichhane",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
